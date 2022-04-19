@@ -1,2 +1,2 @@
 # Magazine-Grid
-## bjzarchi.github.io/magazine-grid/
+# bjzarchi.github.io/magazine-grid/
